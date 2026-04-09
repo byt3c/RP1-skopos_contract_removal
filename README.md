@@ -1,5 +1,7 @@
 # RP1-skopos_contract_removal
-Script to remove maintenance contract from RP1 - skopos mod.
+Script to remove maintenance contract from RP1 - skopos mod.<br>
+You need to run this scrip in your save directory. It creates another save file which has all related contracts removed. <br>
+Script requires python to be installed on the machine.
 
 **Usage :** python remove_skopos_maintenance_contracts.py input.sfs output.sfs level
 
